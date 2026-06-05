@@ -32,13 +32,6 @@ To maintain muscle memory, all productivity shortcuts use the same "modifier sha
 - **Mod + Space**: Cycle to next layout
 - **Mod + 1-9**: Direct window access
 
-### OS Window Management (Rectangle / Magnet)
-*Uses **Mod + Shift** to separate OS controls from App controls.*
-- **Mod + Shift + f**: **F**ullscreen Toggle (Universal)
-- **Mod + Shift + m**: **M**aximize Window
-- **Mod + Shift + h**: Snap Window Left
-- **Mod + Shift + l**: Snap Window Right
-
 ### Browser & Tabs (Chrome / Safari)
 - **Mod + [**: Previous Tab
 - **Mod + ]**: Next Tab
@@ -49,7 +42,7 @@ To maintain muscle memory, all productivity shortcuts use the same "modifier sha
 
 ## 3. Hardware Implementation
 
-### Custom Keyboards (AL80 / K3 Max / Q1 Pro)
+### Custom Keyboards (Keychron K3 Max / Q1 Pro)
 - **Layer Toggle**: The Spacebar acts as a normal Space when tapped, but activates the **Productivity Layer** when held.
 - **Space + Q**: Specialized macro to **Lock Mac** instantly.
 
