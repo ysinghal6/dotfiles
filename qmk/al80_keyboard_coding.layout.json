@@ -331,22 +331,22 @@
       "KC_TRNS",
       "A(KC_W)",
       "LSA(KC_4)",
+      "A(KC_R)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "LSA(KC_LBRC)",
-      "LSA(KC_RBRC)",
+      "A(KC_LBRC)",
+      "A(KC_RBRC)",
       "A(KC_BSLS)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "A(KC_S)",
       "KC_TRNS",
-      "KC_TRNS",
+      "LCG(KC_F)",
       "C(KC_A)",
       "A(KC_H)",
       "A(KC_J)",
@@ -359,13 +359,13 @@
       "KC_NO",
       "KC_TRNS",
       "KC_NO",
-      "KC_TRNS",
-      "LSA(KC_X)",
+      "A(KC_Z)",
+      "A(KC_X)",
       "A(KC_C)",
+      "A(KC_V)",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "LSA(KC_H)",
+      "A(KC_M)",
       "LSA(KC_L)",
       "A(KC_COMM)",
       "KC_TRNS",
@@ -391,10 +391,22 @@
   ],
   "encoders": [
     [
-      ["KC_VOLD", "KC_VOLU"],
-      ["KC_VOLD", "KC_VOLU"],
-      ["KC_VOLD", "KC_VOLU"],
-      ["KC_VOLD", "KC_VOLU"]
+      [
+        "KC_VOLD",
+        "KC_VOLU"
+      ],
+      [
+        "KC_VOLD",
+        "KC_VOLU"
+      ],
+      [
+        "KC_VOLD",
+        "KC_VOLU"
+      ],
+      [
+        "KC_VOLD",
+        "KC_VOLU"
+      ]
     ]
   ]
 }
