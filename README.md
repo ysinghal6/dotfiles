@@ -15,21 +15,20 @@ To maintain muscle memory, all productivity shortcuts use the same "modifier sha
 
 ## 2. Cheat Sheet
 
-### Navigation (HJKL)
-*Standard Vim-style home row movement.*
-- **Mod + h**: Move Focus Left
-- **Mod + j**: Move Focus Down
-- **Mod + k**: Move Focus Up
-- **Mod + l**: Move Focus Right
+### Navigation (Arrows & HJKL)
+- **Mod + Arrows**: Primary navigation (Works on MacBook and Custom boards)
+- **Mod + h / j / k / l**: Secondary Vim-style navigation
 
 ### Tmux Productivity
 *Mnemonics designed for speed and logic.*
-- **Mod + v**: **V**ertical Split (Side-by-side)
-- **Mod + s**: **S**plit Horizontal (Top-bottom)
+- **Mod + \** or **|**: Vertical Split (Side-by-side)
+- **Mod + -**: Split Horizontal (Top-bottom)
 - **Mod + z**: **Z**oom Toggle (Zen mode)
 - **Mod + x**: **X** (Kill) current pane
 - **Mod + c**: **C**reate new window
+- **Mod + s**: **S**ession list (choose-tree)
 - **Mod + r**: **R**ename current window
+- **Mod + [**: **Scroll** / Copy Mode
 - **Mod + Space**: Cycle to next layout
 - **Mod + 1-9**: Direct window access
 
