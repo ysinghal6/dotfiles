@@ -1,6 +1,6 @@
 # Unified Mnemonic Keymap Guide
 
-This repository contains a unified, mnemonic-based keymap system designed to work identically across custom mechanical keyboards (AL80, Keychron K3 Max, Q1 Pro) and the standard MacBook keyboard.
+This repository contains a unified, mnemonic-based keymap system designed to work identically across custom mechanical keyboards (Keychron K3 Max, Q1 Pro) and the standard MacBook keyboard.
 
 ## 1. The Universal Modifiers
 
